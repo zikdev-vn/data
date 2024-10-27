@@ -1,0 +1,14 @@
+{
+    "interval": 10,
+    "sleep": 300,
+    "energy_limit": 10,
+    "tap_range": {
+        "start": 100,
+        "end": 300
+    },
+    "auto_upgrade": {
+        "multivalue": false,
+        "coinlimit": false,
+        "fillrate": false
+    }
+}
